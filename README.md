@@ -31,3 +31,8 @@ chapter09:FindLongestPublicSubString,使用动态规划算来寻找"最长公共
 chapter10:KNN，使用knn算法来预测面包店的销量（本算法书中并无代码）
 
 12
+
+
+
+- Git
+- SVN
